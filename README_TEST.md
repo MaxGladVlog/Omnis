@@ -1,3 +1,3 @@
 # README_TEST
 
-Test file created by ChatGPT.
+Test file.
